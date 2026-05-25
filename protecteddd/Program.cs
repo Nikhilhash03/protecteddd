@@ -1,4 +1,5 @@
-﻿using System;
+﻿using protecteddd.Properties;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -29,6 +30,8 @@ namespace protecteddd
             newclass obj = new newclass();
             obj.mymethod();
             obj.newmethod();
+            nikhil nikhi = new nikhil();
+            nikhi.nikhilmethod();
         }
     }
     }
